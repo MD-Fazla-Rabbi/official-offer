@@ -223,7 +223,7 @@
     <!-- Subscription Form -->
     <form class="flex flex-col lg:flex-row md:flex-row items-center justify-center lg:gap-0 md:gap-0">
       <input type="email" placeholder="user@gmail.com" 
-        class="lg:rounded-l-full md:rounded-l-full sm:rounded-full px-6 py-3 w-full lg:w-96 lg:mb-0 md:mb-0 mb-9 text-gray-700 focus:outline-none pb-6 bg-white "
+        class="lg:rounded-l-full md:rounded-l-full rounded-full px-6 py-3 w-full lg:w-96 lg:mb-0 md:mb-0 mb-9 text-gray-700 focus:outline-none pb-6 bg-white "
       >
       <button 
         type="submit" 
@@ -239,9 +239,45 @@
 
     </main>
 
-    <footer>
-
+    <footer class="bg-black text-white py-10">
+      <div class="max-w-6xl mx-auto px-6">
+        <!-- Top Section -->
+        <div class="flex flex-col md:flex-row justify-between gap-8 text-sm border-b border-gray-700 pb-6">
+          <!-- Address -->
+          <div>
+            <p>44, Big Building Roosevelt Street</p>
+            <p>Beach Gardens Florida 33410</p>
+          </div>
+    
+          <!-- Contact -->
+          <div class="space-y-2">
+            <p class="flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 inline" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M3 5h2l.4 2M7 13h10l1-5H6.4M7 13L6 16h12m-7-1a1 1 0 100 2 1 1 0 000-2zm7 1a1 1 0 100 2 1 1 0 000-2z" /></svg>
+              +00 123 584 124
+            </p>
+            <p class="flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 inline" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M3 3h18v18H3V3zm3 3v12h12V6H6z" /></svg>
+              www.website.com
+            </p>
+          </div>
+        </div>
+    
+        <!-- Social Icons -->
+        <div class="flex justify-center gap-6 my-6">
+          <a href="#" class="text-blue-600"><i class="fab fa-facebook-f text-2xl"></i></a>
+          <a href="#" class="text-pink-500"><i class="fab fa-instagram text-2xl"></i></a>
+          <a href="#" class="text-white"><i class="fab fa-x-twitter text-2xl"></i></a>
+          <a href="#" class="text-blue-500"><i class="fab fa-linkedin-in text-2xl"></i></a>
+        </div>
+    
+        <!-- Bottom Section -->
+        <div class="flex flex-col md:flex-row justify-between items-center text-sm border-t border-gray-700 pt-6">
+          <p>2017, All Rights Reserved.</p>
+          <a href="#" class="text-white hover:underline">Unsubscribe</a>
+        </div>
+      </div>
     </footer>
+    
       
       
       
