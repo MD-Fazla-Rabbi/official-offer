@@ -36,7 +36,7 @@ A modern, festive, and fully responsive **New Year Celebration Landing Page** bu
 ---
 
 ## 📁 Folder Structure
-
+```
 📦 New-Year-Celebration
 ┣ 📂 IMG
 ┃ ┣ 📜 Newyear.png
@@ -59,38 +59,37 @@ A modern, festive, and fully responsive **New Year Celebration Landing Page** bu
 ┃ ┗ 📜 in onlin.png
 ┣ 📜 index.html
 ┗ 📜 README.md
-
-yaml
-Copy code
-
+```
 ---
 
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/new-year-celebration.git
+   ```
 Navigate into the project folder:
-
-bash
+```
 Copy code
 cd new-year-celebration
 Open the index.html file in your browser.
-
+```
 ☁️ How to Deploy on Surge
-bash
-Copy code
-# Install Surge globally
+
+## Install Surge globally
+```
 npm install --global surge
-
-# Navigate to your project folder
+```
+## Navigate to your project folder
+```
 cd path/to/your/project
-
-# Deploy your site
+```
+## Deploy your site
+```
 surge ./ kids-school.surge.sh
+```
 🧑‍💻 Author
-Your Name
-📧 youremail@example.com
+MD FAZLA RABBI
 🌐 GitHub Profile
 
 ⭐ Show Your Support
