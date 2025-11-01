@@ -68,31 +68,33 @@ A modern, festive, and fully responsive **New Year Celebration Landing Page** bu
    ```
    git clone https://github.com/your-username/new-year-celebration.git
    ```
-Navigate into the project folder:
-```
-Copy code
-cd new-year-celebration
-Open the index.html file in your browser.
-```
+2. Navigate into the project folder:
+   ```
+   Copy code
+   cd new-year-celebration
+   Open the index.html file in your browser.
+   ```
 ☁️ How to Deploy on Surge
 
-## Install Surge globally
-```
-npm install --global surge
-```
-## Navigate to your project folder
-```
-cd path/to/your/project
-```
-## Deploy your site
-```
-surge ./ kids-school.surge.sh
-```
-🧑‍💻 Author
+### Install Surge globally
+   ```
+   npm install --global surge
+   ```
+### Navigate to your project folder
+   ```
+   cd path/to/your/project
+   ```
+### Deploy your site
+   ```
+   surge ./ kids-school.surge.sh
+   ```
+### 🧑‍💻 Author
+
 MD FAZLA RABBI
 🌐 GitHub Profile
 
-⭐ Show Your Support
+### ⭐ Show Your Support
 If you like this project, please consider giving it a ⭐ star on GitHub — it helps others discover it too!
-
-© 2025 All Rights Reserved.
+```
+   © 2025 All Rights Reserved.
+```
