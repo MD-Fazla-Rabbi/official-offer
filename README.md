@@ -5,7 +5,7 @@ A modern, festive, and fully responsive **New Year Celebration Landing Page** bu
 ---
 
 ## 🚀 Live Demo
-👉 **[Click Here to View Live Demo](https://kids-school.surge.sh/)**
+👉 **[Click Here to View Live Demo](https://official-offer.surge.sh/)**
 
 ---
 
